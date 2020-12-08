@@ -1,0 +1,12 @@
+.screen_background {
+    background-size: cover;
+    background-position: center;
+    background-image: url(bg1.jpg);
+}
+
+#myCanvas {
+    background-color: white;
+    border-style: ridge;
+    border-width: 2px;
+}
+
